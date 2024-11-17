@@ -129,7 +129,7 @@ header img{
     background-color: #fbf54a;
 }
 
-.kanban-column[datsa-id="3"]::after{
+.kanban-column[data-id="3"]::after{
     background-color: #f868de;
 }
 
